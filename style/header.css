@@ -1,0 +1,40 @@
+.menu {
+    text-decoration: none;
+    float: right;
+    color: white;
+    position: relative;
+    z-index: 10;
+    top: 50px;
+}
+
+.menu-item {
+    display: inline;
+    margin: 10px 50px 10px 10px;
+    font-family: 'Open Sans', sans-serif;
+    transition: all 0.3s ease-out;
+}
+
+.menu-item:hover  {
+    color: #cccccc;
+    transition: all 0.3s ease-out;
+}
+
+.menu-item.login {
+    border-radius: 7px;
+    background-color: #fff;
+    color: #14215e;
+    padding: 3px 15px;
+    transition: all 0.3s ease-out;
+}
+
+.menu-item.login:hover {
+    color: #fff;
+    transition: all 0.3s ease-out;
+    background: #cccccc;
+}
+
+.logo {
+    float: left;
+    margin-top: 50px;
+    margin-left: 50px;
+}
