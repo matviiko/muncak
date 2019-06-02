@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de06d233-e542-418c-b95c-7a1225f4652a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style/header.css" afterPath="$PROJECT_DIR$/style/header.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style/layout.css" afterPath="$PROJECT_DIR$/style/layout.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style/main.css" afterPath="$PROJECT_DIR$/style/main.css" />
-    </list>
+    <list default="true" id="de06d233-e542-418c-b95c-7a1225f4652a" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -162,16 +156,15 @@
       <updated>1559393270357</updated>
       <workItem from="1559393272437" duration="5402000" />
       <workItem from="1559415581149" duration="5804000" />
-      <workItem from="1559470761385" duration="6091000" />
+      <workItem from="1559470761385" duration="6433000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17297000" />
+    <option name="totallyTimeSpent" value="17639000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
