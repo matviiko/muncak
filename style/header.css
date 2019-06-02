@@ -9,25 +9,26 @@
 
 .menu-item {
     display: inline;
-    margin: 10px 50px 10px 10px;
     font-family: 'Open Sans', sans-serif;
     transition: all 0.3s ease-out;
+    text-decoration: none;
 }
 
-.menu-item:hover  {
+.menu-item:hover> a {
     color: #cccccc;
     transition: all 0.3s ease-out;
 }
 
-.menu-item.login {
+.menu-item.login> a {
     border-radius: 7px;
     background-color: #fff;
     color: #14215e;
     padding: 3px 15px;
     transition: all 0.3s ease-out;
+    text-decoration: none;
 }
 
-.menu-item.login:hover {
+.menu-item.login:hover> a {
     color: #fff;
     transition: all 0.3s ease-out;
     background: #cccccc;
@@ -37,4 +38,40 @@
     float: left;
     margin-top: 50px;
     margin-left: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    display: inline;
+    margin: 10px 50px 10px 10px;
+    font-family: 'Open Sans', sans-serif;
+    transition: all 0.3s ease-out;
+}
+
+.header-content {
+    position: absolute;
+    top: 150px;
+    left: 30px;
+    height: 400px;
+    width: 300px;
+}
+
+.header-content> h1 {
+    font-family: 'Open Sans', sans-serif;
+    color: #1c2056;
+}
+
+.header-content> p {
+    font-family: 'Maven Pro', sans-serif;
+    color: #8b879d;
+}
+
+.header-button {
+    background-color: #2870db;
+    box-shadow: 0px 7px 8.52px 0.48px #cad9ea;
+    width: 120px;
+    height: 40px;
+    color: white;
+    border-radius: 19px;
 }
