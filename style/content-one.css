@@ -63,3 +63,17 @@
     right: 350px;
     top: 1200px;
 }
+
+.main-h2 {
+    font-family: 'Open Sans', sans-serif;
+    color: #263238;
+    height: 30px;
+    width: 440px;
+    position: absolute;
+    left: 270px;
+    top: 440px;
+}
+
+.content-1 {
+    padding: 20px 0;
+}
