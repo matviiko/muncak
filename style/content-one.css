@@ -1,77 +1,44 @@
 .content-item {
-    background: #ffffff;
-    box-shadow: 0px 7px 8.52px 0.48px #e2eaf4;
-    height: 250px;
-    width: 350px;
+    background: #fff;
+    box-shadow: 0 7px 9px 1px #e2eaf4;
+    height: auto;
+    width: 400px;
     border-radius: 20px;
-    padding: 20px;
+    padding: 40px;
 }
 
 .content-one-left {
     padding: 20px 200px;
+    position: relative;
 }
 
-.content-item> h1 {
+.content-item > h1 {
     font-family: 'Open Sans', sans-serif;
     color: #1c2056;
 }
 
-.content-item> p {
+.content-item > p {
     font-family: 'Maven Pro', sans-serif;
     color: #8b879d;
-}
-
-.content-button {
-    background-color: #2870db;
-    box-shadow: 0px 7px 8.52px 0.48px #cad9ea;
-    width: 120px;
-    height: 40px;
-    color: white;
-    border-radius: 19px;
-    position: absolute;
-    right: 350px;
-    top: 650px;
+    line-height: 1.498;
+    text-align: left;
 }
 
 .content-one-right {
-    padding-top: 20px;
-    padding-bottom: 20px;
-    padding-left: 800px;
-    padding-right: 50px;
+    padding: 20px 50px 20px 800px;
 }
 
-.content-button-2 {
-    background-color: #2870db;
-    box-shadow: 0px 7px 8.52px 0.48px #cad9ea;
-    width: 120px;
-    height: 40px;
-    color: white;
-    border-radius: 19px;
+.btn-position {
     position: absolute;
-    left: 300px;
-    top: 900px;
-}
-
-.content-button-3 {
-    background-color: #2870db;
-    box-shadow: 0px 7px 8.52px 0.48px #cad9ea;
-    width: 120px;
-    height: 40px;
-    color: white;
-    border-radius: 19px;
-    position: absolute;
-    right: 350px;
-    top: 1200px;
+    left: 806px;
+    top: 136px;
 }
 
 .main-h2 {
     font-family: 'Open Sans', sans-serif;
     color: #263238;
-    height: 30px;
     width: 440px;
-    position: absolute;
-    left: 270px;
-    top: 440px;
+    margin: 0 auto;
 }
 
 .content-1 {
