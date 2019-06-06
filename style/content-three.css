@@ -1,0 +1,38 @@
+.cont-3-item {
+    padding: 10px;
+    margin: 20px;
+    display: inline-block;
+    width: 300px;
+    height: auto;
+    border-radius: 20px;
+    box-shadow: 1px 15px 23px 0px #e2eaf4;
+
+}
+
+.cont-3-item > P {
+    text-align: left;
+    color: #263238;
+    font-size: 15px;
+    font-family: 'Open Sans Regular', sans-serif;
+}
+
+.cont-3-item > h2 {
+    text-align: left;
+}
+
+.cont-3-a {
+    float: left;
+    color: #2870db;
+    font-size: 15px;
+    font-weight: bolder;
+}
+
+.content-3-main {
+    text-align: center;
+}
+
+.width-h-3 {
+    width: 530px;
+    padding: 50px 0;
+    text-align: center;
+}
