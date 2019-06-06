@@ -1,0 +1,44 @@
+.form {
+    border-radius: 20px;
+    background-color: #2870db;
+    width: 960px;
+    height: auto;
+    text-align: center;
+    margin: auto;
+}
+
+.inp {
+    border-radius: 20px;
+    background-color: #fbfcfc;
+    color: black;
+    width: 350px;
+    height: 40px;
+    border: 2px solid #2870db;
+    font-family: 'Open Sans Regular', sans-serif;
+    padding: 10px 20px;
+    display: block;
+    margin-top: 25px;
+}
+
+.inp-main {
+    margin-left: 250px;
+    padding: 30px 50px;
+}
+
+.form > h2 {
+    font-family: 'Open Sans SemiBold', sans-serif;
+    color: #fbfcfc;
+    width: 700px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.footer-btn {
+    background-color: #00aeff;
+    margin-bottom: 60px;
+    width: 120px;
+    height: 40px;
+    color: white;
+    border-radius: 19px;
+    border: 1px solid #2870db;
+}
