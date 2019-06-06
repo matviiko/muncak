@@ -37,8 +37,9 @@
 .main-h2 {
     font-family: 'Open Sans', sans-serif;
     color: #263238;
-    width: 440px;
+    width: 470px;
     margin: 0 auto;
+    padding: 20px;
 }
 
 .content-1 {

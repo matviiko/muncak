@@ -1,0 +1,30 @@
+.cont-2-main {
+    padding: 5px;
+    text-align: center;
+}
+
+.cont-2-item {
+    padding: 5px;
+    display: inline-block;
+}
+
+.cont-2-item > p {
+    font-family: 'Open Sans Regular', sans-serif;
+    color: #263238;
+    font-size: 13px;
+    text-align: center;
+    width: 200px;
+}
+
+.cont-2-item > h3 {
+    font-family: 'Open Sans', sans-serif;
+    color: #1a56a3;
+    text-align: center;
+    width: 200px;
+}
+
+.cont-2-h {
+    width: 600px;
+    padding: 50px 0;
+    text-align: center;
+}
