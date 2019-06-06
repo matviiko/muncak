@@ -36,3 +36,11 @@
     padding: 50px 0;
     text-align: center;
 }
+
+.cont-3-item > img {
+    width: 280px;
+    height: auto;
+    margin: auto;
+    border-radius: 10px;
+}
+
