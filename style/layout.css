@@ -37,13 +37,13 @@ html, body {
 
 .content {
     background: #fbfcfc;
-    padding-bottom: 1000px;
+    padding-bottom: 650px;
 }
 
 .footer {
-    background-color: #fbfcfc;
-    height: 1000px;
-    margin-top: -1000px;
+    background-color: #f2f4f585;
+    height: 650px;
+    margin-top: -650px;
     clear: both;
 }
 
@@ -55,3 +55,4 @@ html, body {
     color: white;
     border-radius: 19px;
 }
+

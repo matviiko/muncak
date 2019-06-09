@@ -42,3 +42,29 @@
     border-radius: 19px;
     border: 1px solid #2870db;
 }
+
+.footer-gr {
+    padding: 5px;
+    background: #1955a3;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.all-foot {
+    margin: 0;
+    color: #fbfcfc;
+    width: 200px;
+    line-height: 10px;
+}
+
+.all-foot > h3 {
+    font-family: 'Open Sans SemiBold', sans-serif;
+    font-size: 20px;
+    line-height: 3px;
+    margin-bottom: 40px;
+}
+
+.p1 {
+    margin-top: 40px;
+}
